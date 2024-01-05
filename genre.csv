@@ -1,0 +1,118 @@
+genre_id,genre_name
+1,3D                                                                                                  
+2,Platformer                                                                                          
+3,Action                                                                                              
+4,2D                                                                                                  
+5,Fighting                                                                                            
+6,Miscellaneous                                                                                       
+7,Exercise / Fitness                                                                                  
+8,Turn-Based                                                                                          
+9,Strategy                                                                                            
+10,Tactics                                                                                             
+11,Beat-'Em-Up                                                                                         
+12,Role-Playing                                                                                        
+13,Trainer                                                                                             
+14,General                                                                                             
+15,Real-Time                                                                                           
+16,Arcade                                                                                              
+17,Music                                                                                               
+18,Rhythm                                                                                              
+19,Racing                                                                                              
+20,Automobile                                                                                          
+21,Compilation                                                                                         
+22,Puzzle                                                                                              
+23,Matching                                                                                            
+24,Party / Minigame                                                                                    
+25,Action RPG                                                                                          
+26,Virtual Life                                                                                        
+27,Virtual                                                                                             
+28,Simulation                                                                                          
+29,Roguelike                                                                                           
+30,Action Adventure                                                                                    
+31,Application                                                                                         
+32,Japanese-Style                                                                                      
+33,Edutainment                                                                                         
+34,Open-World                                                                                          
+35,Combat                                                                                              
+36,Vehicle                                                                                             
+37,Pinball                                                                                             
+38,Stacking                                                                                            
+39,Sports                                                                                              
+40,Tennis                                                                                              
+41,Individual                                                                                          
+42,Third-Person                                                                                        
+43,Shooter                                                                                             
+44,Boxing / Martial Arts                                                                               
+45,Adventure                                                                                           
+46,Linear                                                                                              
+47,Sandbox                                                                                             
+48,Career                                                                                              
+49,Horizontal                                                                                          
+50,Shoot-'Em-Up                                                                                        
+51,Other                                                                                               
+52,Fantasy                                                                                             
+53,Logic                                                                                               
+54,First-Person                                                                                        
+55,Athletics                                                                                           
+56,Board / Card Game                                                                                   
+57,Rail                                                                                                
+58,Space                                                                                               
+59,Modern                                                                                              
+60,Sci-Fi                                                                                              
+61,Defense                                                                                             
+62,Survival                                                                                            
+63,Horror                                                                                              
+64,Kart                                                                                                
+65,Driving                                                                                             
+66,Party                                                                                               
+67,                                                                                                    
+68,Console-style RPG                                                                                   
+69,Traditional                                                                                         
+70,Soccer                                                                                              
+71,Golf                                                                                                
+72,Marine                                                                                              
+73,Submarine                                                                                           
+74,Olympic Sports                                                                                      
+75,Wrestling                                                                                           
+76,Nature                                                                                              
+77,Hunting                                                                                             
+78,Board Games                                                                                         
+79,Scrolling                                                                                           
+80,Vertical                                                                                            
+81,Hidden Object                                                                                       
+82,Motorcycle                                                                                          
+83,Motocross                                                                                           
+84,Pet                                                                                                 
+85,Civilian Plane                                                                                      
+86,Civilian                                                                                            
+87,Flight                                                                                              
+88,Light Gun                                                                                           
+89,Hardware                                                                                            
+90,Console                                                                                             
+91,Trivia / Game Show                                                                                  
+92,Sim                                                                                                 
+93,Visual Novel                                                                                        
+94,Music Maker                                                                                         
+95,Boxing                                                                                              
+96,Snow / Water                                                                                        
+97,Parlor                                                                                              
+98,Alternative                                                                                         
+99,Web Browser                                                                                         
+100,Team                                                                                                
+101,Baseball                                                                                            
+102,Snowboarding                                                                                        
+103,Gambling                                                                                            
+104,Volleyball                                                                                          
+105,Military                                                                                            
+106,Football                                                                                            
+107,Street                                                                                              
+108,Futuristic                                                                                          
+109,Historic                                                                                            
+110,Ice Hockey                                                                                          
+111,City Building                                                                                       
+112,Basketball                                                                                          
+113,Dancing                                                                                             
+114,Point-and-Click                                                                                     
+115,On-foot                                                                                             
+116,Rally / Offroad                                                                                     
+117,Modern Jet                                                                                          
